@@ -1,5 +1,5 @@
 # cordova-plugin-detect-root-devices
-This is a cordova plugin for **android** to detect whether our device is not rooted. Here uses the google Safetynet Attestation Api for root detection
+This is a cordova plugin for **android** to detect whether our device is not rooted. Here uses the google Safetynet Attestation Api for root detection. This is very useful plugin for critically and commercially important applications to avoid the usage of rooted users which might halmful for those systems.
 
 You can use following line to call the plugin
 ```
