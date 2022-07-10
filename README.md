@@ -21,7 +21,7 @@ function onSuccessCallback(response) {
 }
 
 function onErrorCallback(response) {
-//  In errorCallback it will give String as the response
+    //  In errorCallback it will give String as the response
     console.log("This is failure callback", response);
 }
 ```
